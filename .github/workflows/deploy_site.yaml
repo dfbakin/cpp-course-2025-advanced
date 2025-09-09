@@ -20,7 +20,7 @@ jobs:
         uses: quarto-dev/quarto-actions/render@v2
 
       - name: Rename output directory
-        run: mv _site cpp25_dfbakin_com
+        run: mv _site cpp_advanced25_dfbakin_com
 
       - name: Deploy using rsync
         uses: burnett01/rsync-deployments@7.0.2
