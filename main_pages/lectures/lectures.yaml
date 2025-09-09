@@ -1,0 +1,115 @@
+- title: Переменные, ввод-вывод, операции
+  number: 1
+  description: Переменные, типы, ввод-вывод, арифметические операции, задача о 
+    получении разрядов в позиционной системе счисления
+  material: /lectures/io_variables/notes.html
+  presentation: /lectures/io_variables/presentation.pdf
+
+- title: Условия, ветвление, отладка
+  number: 2
+  description: Хранение целых чисел, переполнение. 
+    Логические операции, операции сравнения, условия, switch-case. Отладка программ. Хранение float
+  material: /lectures/conditions/notes.html
+  presentation: /lectures/conditions/presentation.pdf
+
+- title: Циклы
+  number: 3
+  description: Циклы (for, while, do-while), break, continue, вложенность циклов
+    Получение всех цифр числа, нахождения экстремума в последовательности, счетчиков
+  material: /lectures/cycles/notes.html
+  presentation: /lectures/cycles/presentation.pdf
+
+- title: O-нотация. Теория чисел
+  number: 4
+  description: Оценка сложностей алгоритмов. Быстрое возведение в степень. 
+    Проверка на делимость и простоту, нахождение всех простых в диапазоне (без решета Эратосфен), факторизация
+
+- title: Работа с std::vector
+  number: 5
+  description: Динамические массивы. Обработка массивов с помощью циклов. std::vector. Методы std::vector, копирование, size и capacity, сложности операций
+
+- title: Ссылки, указатели, работа с памятью
+  number: 6
+  description: "Ссылки и указатели, константность, UB (dangling reference). Работа с файлами: ввод-вывод, текстовые и двоичные файлы"
+
+- title: Двумерные массивы
+  number: 7
+  description: Двумерные динамические массивы, способы создания и работы с ними
+
+- title: Функции
+  number: 8
+  description: Функции, аргументы, возвращаемые значения, перегрузки. Передача аргументов по ссылке и по значению. Лямбда функции
+
+- title: Константность. Структуры
+  number: 9
+  description: Константные переменные, ссылки и их использование в функциях. Структуры.
+
+- title: STL — 1
+  number: 10
+  description: Шаблоны, итераторы, std::unordered_set, std::set
+
+- title: STL — 2
+  number: 11
+  description: Пары, кортежи, ассоциативные контейнеры (std::unordered_map, std::map)
+
+- title: STL — 3
+  number: 12
+  description: Сортировки, компараторы.
+
+- title: Контрольная работа — 2
+  description: Контрольная работа за второй модуль.
+
+# - title: Рекурсия
+#   number: 12
+#   description: Рекурсия
+#   material: /lectures/recursion/notes.html
+
+# - title: Строки — 1
+#   number: 13
+#   description: Строки — 1
+#   material: /lectures/strings_1/notes.html
+
+# - title: Строки — 2
+#   number: 14
+#   description: Строки — 2
+#   material: /lectures/strings_2/notes.html
+
+# - title: Строки — 3
+#   number: 15
+#   description: Строки — 3
+#   material: /lectures/strings_3/notes.html
+
+# - title: Приближенное решение задач
+#   number: 16
+#   description: Приближенное решение задач
+#   material: /lectures/approx_math/notes.html
+
+# - title: Геометрия -- 1
+#   number: 17
+#   description: Геометрия -- 1
+#   material: /lectures/geometry_1/notes.html
+
+# - title: Геометрия -- 2
+#   number: 18
+#   description: Геометрия -- 2
+#   material: /lectures/geometry_2/notes.html
+
+# - title: Бинарный поиск
+#   number: 18
+#   description: Бинарный поиск
+#   material: /lectures/binary_search/notes.html
+
+# - title: Двумерные массивы
+#   number: 19
+#   description: Двумерные массивы
+#   material: /lectures/two_dim_arrays/notes.html
+
+# - title: Алгоритмы сортировки
+#   number: 20
+#   description: Алгоритмы сортировки
+#   material: /lectures/sorting_algorithms/notes.html
+
+# - title: (Бонус) Стек
+#   number: 21
+#   description: (Бонус) Стек
+#   material: /lectures/stack/notes.html

@@ -1,0 +1,9 @@
+- title: Введение в C++ и условия
+  number: 1
+  description: Переменные, арифметика, ввод-вывод, условия
+  links:
+    - text: TBD
+      # href: https://contest.yandex.ru/contest/75139/enter/
+      # deadline: 2024-02-05T23:59:59
+  updates:
+    - text: "nothing"
