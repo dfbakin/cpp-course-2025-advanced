@@ -26,7 +26,7 @@ jobs:
         uses: burnett01/rsync-deployments@7.0.2
         with:
           switches: -avzr --delete
-          path: cpp25_dfbakin_com
+          path: cpp_advanced25_dfbakin_com
           remote_path: /var/websites
           remote_host: dfbakin.com
           remote_user: ${{ secrets.DEPLOY_USER }}
