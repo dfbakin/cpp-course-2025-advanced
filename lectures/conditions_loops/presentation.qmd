@@ -644,7 +644,7 @@ int main() {
 
 :::: {.columns}
 
-::: {.column width="60%"}
+::: {.column width="50%"}
 
 ```C++
 #include <iostream>
@@ -663,7 +663,7 @@ int main() {
 
 :::
 
-::: {.column width=40%"}
+::: {.column width="50%"}
 ```
 Enter your name:
 Nikolai
