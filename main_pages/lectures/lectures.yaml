@@ -17,6 +17,9 @@
   description: Циклы (for, while, do-while), break, continue, вложенность циклов.
     Асимптотическая сложность. Оценка сложностей алгоритмов. Быстрое возведение в степень.
     Проверка на делимость и простоту, нахождение всех простых в диапазоне, факторизация.
+  material: /lectures/complexity_prime_numbers/notes.html
+  presentation: /lectures/complexity_prime_numbers/presentation.pdf
+
 
 - title: Особые виды чисел
   number: 4
