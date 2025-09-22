@@ -7,3 +7,11 @@
       deadline: 2025-09-21T23:59:00
   # updates:
   #   - text: "nothing"
+
+- title: (Пилот) Мега-контест на делимость
+  number: 2
+  description: Быстрое возведение в степень, делимость, особые виды чисел
+  links:
+    - text: Группа 2
+      href: https://official.contest.yandex.ru/contest/81813/enter/
+      deadline: 2025-10-02T23:59:59
