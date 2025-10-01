@@ -31,6 +31,8 @@
   number: 5
   description: "Динамические массивы. Методы std::vector, копирование, различие size и capacity, сложности операций.
     Двумерные массивы"
+  material: /lectures/std_vector/notes.html
+  presentation: /lectures/std_vector/presentation.pdf
 
 - title: Ссылки, указатели, работа с памятью
   number: 6
