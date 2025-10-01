@@ -11,6 +11,7 @@
     Логические операции, операции сравнения, условия, switch-case. Отладка программ. Хранение float. Циклы
   material: /lectures/conditions_loops/notes.html
   presentation: /lectures/conditions_loops/presentation.pdf
+  quiz: https://official.contest.yandex.ru/contest/82423/enter/
 
 - title: Циклы. Асимптотическая сложность. Делимость и простота
   number: 3
