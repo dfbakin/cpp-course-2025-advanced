@@ -20,6 +20,7 @@
     Проверка на делимость и простоту, нахождение всех простых в диапазоне, факторизация.
   material: /lectures/complexity_prime_numbers/notes.html
   presentation: /lectures/complexity_prime_numbers/presentation.pdf
+  quiz: https://official.contest.yandex.ru/contest/82745/enter/
 
 
 - title: Особые виды чисел
