@@ -8,10 +8,18 @@
   # updates:
   #   - text: "nothing"
 
-- title: (Пилот) Мега-контест на делимость
+- title: Мега-контест на делимость
   number: 2
   description: Быстрое возведение в степень, делимость, особые виды чисел
   links:
     - text: Группа 2
       href: https://official.contest.yandex.ru/contest/81813/enter/
       deadline: 2025-10-02T23:59:59
+
+- title: std::vector и делимость
+  number: 2
+  description: Быстрое возведение в степень, делимость, особые виды чисел
+  links:
+    - text: Группа 2
+      href: https://official.contest.yandex.ru/contest/82747/enter/
+      deadline: 2025-10-15T23:59:59
