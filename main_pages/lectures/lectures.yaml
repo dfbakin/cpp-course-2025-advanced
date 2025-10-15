@@ -35,6 +35,7 @@
     Двумерные массивы"
   material: /lectures/std_vector/notes.html
   presentation: /lectures/std_vector/presentation.pdf
+  quiz: https://official.contest.yandex.ru/contest/83183/enter/
 
 - title: Ссылки, указатели, работа с памятью
   number: 6
