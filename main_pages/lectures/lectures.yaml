@@ -11,7 +11,9 @@
     Логические операции, операции сравнения, условия, switch-case. Отладка программ. Хранение float. Циклы
   material: /lectures/conditions_loops/notes.html
   presentation: /lectures/conditions_loops/presentation.pdf
-  quiz: https://official.contest.yandex.ru/contest/82423/enter/
+  quiz:
+  - text: Группа 2
+    href: https://official.contest.yandex.ru/contest/82423/enter/
 
 - title: Циклы. Асимптотическая сложность. Делимость и простота
   number: 3
@@ -20,7 +22,9 @@
     Проверка на делимость и простоту, нахождение всех простых в диапазоне, факторизация.
   material: /lectures/complexity_prime_numbers/notes.html
   presentation: /lectures/complexity_prime_numbers/presentation.pdf
-  quiz: https://official.contest.yandex.ru/contest/82745/enter/
+  quiz:
+    - text: Группа 2
+      href: https://official.contest.yandex.ru/contest/82745/enter/
 
 
 - title: Особые виды чисел
@@ -35,19 +39,29 @@
     Двумерные массивы"
   material: /lectures/std_vector/notes.html
   presentation: /lectures/std_vector/presentation.pdf
-  quiz: https://official.contest.yandex.ru/contest/83183/enter/
+  quiz:
+    - text: Группа 2
+      href: https://official.contest.yandex.ru/contest/82745/enter/
 
 - title: Ссылки, указатели, работа с памятью
   number: 6
   description: "Ссылки и указатели, константность, UB (dangling reference). Работа с файлами: ввод-вывод, текстовые и двоичные файлы"
+  material: /lectures/ref_ptr_files/notes.html
+  presentation: /lectures/ref_ptr_files/presentation.pdf
+
+- title: Контрольная работа — 1
+  description: Контрольная работа за первый модуль.
+  quiz:
+    - text: Группа 2
+      href: https://official.contest.yandex.ru/contest/83592/enter/
+  practice: 
+    - text: Группа 2
+      href: https://official.contest.yandex.ru/contest/83589/enter/
 
 - title: Работа с памятью. Функции
   number: 7
   description: "Виртуальная адресация, выделение и освобождение памяти.  Статическая, динамическая память. Переменные на стеке.
     Функции: аргументы, возвращаемые значения, перегрузки"
-
-- title: Контрольная работа — 1
-  description: Контрольная работа за первый модуль.
 
 - title: Функции
   number: 8
