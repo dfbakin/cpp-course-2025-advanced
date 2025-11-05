@@ -43,7 +43,7 @@
     - text: Группа 2
       href: https://official.contest.yandex.ru/contest/82745/enter/
 
-- title: Ссылки, указатели, работа с памятью
+- title: Ссылки, указатели, работа с файлами
   number: 6
   description: "Ссылки и указатели, константность, UB (dangling reference). Работа с файлами: ввод-вывод, текстовые и двоичные файлы"
   material: /lectures/ref_ptr_files/notes.html
@@ -60,8 +60,10 @@
 
 - title: Работа с памятью. Функции
   number: 7
-  description: "Виртуальная адресация, выделение и освобождение памяти.  Статическая, динамическая память. Переменные на стеке.
-    Функции: аргументы, возвращаемые значения, перегрузки"
+  description: "Стек. Использование стека. Виды памяти. Использование стека. Переменные на стеке.
+    Реализация стека с помощью динамической памяти. Функции: аргументы, возвращаемые значения, перегрузки"
+  material: /lectures/stack_functions/notes.html
+  presentation: /lectures/stack_functions/presentation.pdf
 
 - title: Функции
   number: 8
