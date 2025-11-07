@@ -17,9 +17,17 @@
       deadline: 2025-10-02T23:59:59
 
 - title: std::vector и делимость
-  number: 2
+  number: 3
   description: Быстрое возведение в степень, делимость, особые виды чисел
   links:
     - text: Группа 2
       href: https://official.contest.yandex.ru/contest/82747/enter/
       deadline: 2025-10-15T23:59:59
+
+- title: Стек, виды памяти. Функции
+  number: 4
+  description: "Стек, классические задачи на стек, память на стеке и на куче, реализация стека. Функции"
+  links:
+    - text: Группа 2
+      href: https://official.contest.yandex.ru/contest/84864/enter/
+      deadline: 2025-11-14T23:59:59
