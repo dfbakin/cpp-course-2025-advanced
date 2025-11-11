@@ -65,10 +65,12 @@
   material: /lectures/stack_functions/notes.html
   presentation: /lectures/stack_functions/presentation.pdf
 
-- title: Функции
+- title: Константность. Структуры
   number: 8
-  description: Передача аргументов по ссылке и по значению. Лямбда функции, функции высшего порядка.
+  description:
     Константные переменные, ссылки. Структуры
+  material: /lectures/const_structures/notes.html
+  presentation: /lectures/const_structures/presentation.pdf
 
 - title: STL — 1
   number: 9
