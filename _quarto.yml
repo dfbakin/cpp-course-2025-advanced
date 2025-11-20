@@ -3,13 +3,13 @@ project:
   output-dir: _site
 
 # Meta
-description-meta: "Intoduction to C++ for HSE Lyceum (2025)"
+description-meta: "C++ Course for Advanced Groups - HSE Lyceum (2025)"
 author-meta: "Denis Bakin"
 
 website:
-  title: "C++ Course"
+  title: "C++ Course (Advanced Groups)"
   image: "resources/images/favicon.png"
-  description: "Website of 'Intoduction to C++' for HSE Lyceum (2025)"
+  description: "Website of C++ Course for Advanced Groups - HSE Lyceum (2025)"
 
   navbar:
     background: dark
@@ -76,7 +76,7 @@ website:
 
   twitter-card: true
 
-  site-url: "https://cpp25.dfbakin.com"
+  site-url: "https://cpp-advanced25.dfbakin.com"
 
 format:
   html:

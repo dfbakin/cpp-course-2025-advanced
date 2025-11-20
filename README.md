@@ -1,8 +1,8 @@
 Here is the updated README.md with the description of your C++ course:
 
-## C++ Course 2025
+## C++ Course 2025 (Advanced Groups)
 
-This repository contains materials for the **C++ Programming Course** designed for students of the Lyceum of the National Research University Higher School of Economics (НИУ ВШЭ). The course introduces students to the fundamentals of programming in C++ and covers topics such as:
+This repository contains materials for the **C++ Programming Course** designed for advanced groups of students at the Lyceum of the National Research University Higher School of Economics (НИУ ВШЭ). This is the same course with slightly more complicated content for advanced groups, covering topics such as:
 
 - Basics of C++ syntax and structure
 - Variables, data types, and memory management
