@@ -71,6 +71,9 @@
     Константные переменные, ссылки. Структуры
   material: /lectures/const_structures/notes.html
   presentation: /lectures/const_structures/presentation.pdf
+  quiz:
+    - text: Группа 2
+      href: https://official.contest.yandex.ru/contest/86131/enter/
 
 - title: STL — 1
   number: 9
