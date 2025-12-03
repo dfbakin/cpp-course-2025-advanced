@@ -52,3 +52,10 @@
       deadline: 2025-12-07T23:59:59
   updates:
       - text: "Есть повторения в задачах, это небольшой бонус из-за сложности новых задач"
+
+- title: "STL — 1. Шаблоны, итераторы, множества"
+  number: 8
+  description: "Шаблоны, итераторы, множества"
+  links:
+    - text: Группа 2
+      href: https://official.contest.yandex.ru/contest/86451/enter/
