@@ -58,6 +58,15 @@
     - text: Группа 2
       href: https://official.contest.yandex.ru/contest/83589/enter/
 
+- title: Резерв контрольной работы — 1
+  description: Резервный срок для написания контрольной работы за первый модуль.
+  practice:
+    - text: Группы 2 (практика). В зачет не идет первая задача
+      href: https://official.contest.yandex.ru/contest/86640/enter/
+  quiz: 
+    - text: Группа 2 (теория)
+      href: https://official.contest.yandex.ru/contest/86638/enter/
+
 - title: Работа с памятью. Функции
   number: 7
   description: "Стек. Использование стека. Виды памяти. Использование стека. Переменные на стеке.
