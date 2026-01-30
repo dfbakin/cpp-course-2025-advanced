@@ -108,6 +108,17 @@
 - title: STL — 3
   number: 11
   description: Сортировки, компараторы.
+  material: /lectures/stl_3/notes.html
+  presentation: /lectures/stl_3/presentation.pdf
+  practice:
+    - text: Группа 2
+      href: https://official.contest.yandex.ru/contest/88922/enter/
+
+- title: Строки — 1
+  number: 12
+  description: Строки — 1
+  material: /lectures/strings_1/notes.html
+  presentation: /lectures/strings_1/presentation.pdf
 
 # - title: Рекурсия
 #   number: 12
