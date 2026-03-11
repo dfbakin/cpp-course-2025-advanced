@@ -126,20 +126,20 @@
   material: /lectures/recursion/notes.html
   presentation: /lectures/recursion/presentation.pdf
 
-# - title: Строки — 1
-#   number: 13
-#   description: Строки — 1
-#   material: /lectures/strings_1/notes.html
+- title: Строки — 3
+  number: 15
+  description: Перестановки, слова в комбинаторике. Генерация слов в алфавите, скобочных последовательностей, перестановок
+  material: /lectures/strings_3/notes.html
+  presentation: /lectures/strings_3/presentation.pdf
+  quiz: 
+    - text: Группа 2
+      href: https://official.contest.yandex.ru/contest/91730/enter/
 
-# - title: Строки — 2
-#   number: 14
-#   description: Строки — 2
-#   material: /lectures/strings_2/notes.html
-
-# - title: Строки — 3
-#   number: 15
-#   description: Строки — 3
-#   material: /lectures/strings_3/notes.html
+- title: Алгоритмы сортировки
+  number: 16
+  description: Приближенное решение задач
+  material: /lectures/sorting_algorithms/notes.html
+  presentation: /lectures/sorting_algorithms/presentation.pdf
 
 # - title: Приближенное решение задач
 #   number: 16
