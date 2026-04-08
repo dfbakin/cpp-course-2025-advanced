@@ -164,6 +164,9 @@
   description: Нули функции методом половинного деления, экстремумы функции методом половинного деления, площадь под графиком методом трапеций
   material: /lectures/approx_math/notes.html
   presentation: /lectures/approx_math/presentation.pdf
+  quiz:
+    - text: Группа 2
+      href: https://quizmd.dfbakin.com/quiz/qMWGL4zM
 
 - title: Геометрия -- 1
   number: 18
