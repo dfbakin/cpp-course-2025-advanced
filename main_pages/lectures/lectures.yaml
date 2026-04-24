@@ -170,12 +170,28 @@
 
 - title: Геометрия -- 1
   number: 18
-  description: Геометрия -- 1
+  description: Точки, векторы, отрезки, лучи и прямые на плоскости. Скалярное и векторное произведения.
+    Расстояния, проверки принадлежности точки. Пересечения. Проекция точки на прямую
+  material: /lectures/geometry_1/notes.html
+  presentation: /lectures/geometry_1/presentation.pdf
+  quiz:
+    - text: Группа 2
+      href: https://quizmd.dfbakin.com/quiz/9XKPq8Dc
 
 - title: Геометрия -- 2
   number: 19
-  description: Геометрия -- 2
+  description: Многоугольники и их типы.
+    Площадь многоугольника. Принадлежность точки многоугольнику, проверка выпуклости. 
+    Формула Пика, выпуклая оболочка
+  material: /lectures/geometry_2/notes.html
+  presentation: /lectures/geometry_2/presentation.pdf
+  quiz:
+    - text: Группа 2
+      href: https://quizmd.dfbakin.com/quiz/_7s2Mzdx
 
 - title: Бинарный поиск
   number: 20
-  description: Бинарный поиск
+  description: Бинарный поиск в отсортированном массиве. 
+    Бинарный поиск по ответу. Вещественный бинпоиск
+  material: /lectures/binary_search/notes.html
+  presentation: /lectures/binary_search/presentation.pdf
